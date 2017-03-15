@@ -1,3 +1,4 @@
 # hello-world
-Just another repository
-Made for first github class in tafe
+Just another repository.
+
+Made for first github class in tafe.
